@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\bin\Debug\WindowsFormsAppLpB.exe.config
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\bin\Debug\WindowsFormsAppLpB.exe
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\bin\Debug\WindowsFormsAppLpB.pdb
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.Form1.resources
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.exe
+C:\Users\user\source\repos\WindowsFormsAppLpB\WindowsFormsAppLpB\obj\Debug\WindowsFormsAppLpB.pdb
